@@ -18,11 +18,11 @@ body {
 }
 
 .bg-gradient-main {
-  background: linear-gradient(to top, #fba007, #ffc630);
+  background: linear-gradient(to top, #f8b9ce, #f6bdd0);
 }
 
 .bg-gradient-overlay {
-  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 40%, rgba(0,212,255,0) 100%);
+  background: linear-gradient(180deg, rgba(242,155,187,1) 0%, rgba(242,169,188,1) 40%, rgba(0,212,255,0) 100%);
 }
 
 .radial-gradient-overlay {
